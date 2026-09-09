@@ -1,1 +1,16 @@
-
+{
+  "name": "hyatt-bd-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "HYATT BD Crm - backend + static app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
